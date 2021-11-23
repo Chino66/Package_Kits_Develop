@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e498d9d-7415-4447-8c06-8c756baa6b8e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/_package_/Editor/PackageUtils.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
+              <folding>
+                <marker date="1636735682662" expanded="true" signature="6:268" ph="..." />
+                <marker date="1636735682662" expanded="true" signature="291:5341" ph="{...}" />
+                <marker date="1636735682662" expanded="true" signature="330:5339" ph="{...}" />
+                <marker date="1636735682662" expanded="true" signature="433:958" ph="{...}" />
+                <marker date="1636735682662" expanded="true" signature="733:879" ph="{...}" />
+                <marker date="1636735682662" expanded="true" signature="1059:1143" ph="{...}" />
+                <marker date="1636735682662" expanded="true" signature="1246:1779" ph="{...}" />
+                <marker date="1636735682662" expanded="true" signature="1551:1700" ph="{...}" />
+                <marker date="1636735682662" expanded="true" signature="1893:2688" ph="{...}" />
+                <marker date="1636735682662" expanded="true" signature="2195:2342" ph="{...}" />
+                <marker date="1636735682662" expanded="true" signature="2430:2603" ph="{...}" />
+                <marker date="1636735682662" expanded="true" signature="2500:2589" ph="{...}" />
+                <marker date="1636735682662" expanded="true" signature="2690:3897" ph="/*        /// 添加或更新插件包 ... */" />
+                <marker date="1636735682662" expanded="true" signature="3900:5333" ph="/* ##region 插件包列表 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Task_Kits_Develop/Assets/_package_/Runtime/TaskCondition.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="81" selection-start-line="81" selection-end-line="82" />
+              <folding>
+                <marker date="1636732644718" expanded="false" signature="6:115" ph="..." />
+                <marker date="1636732644718" expanded="true" signature="135:2667" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="168:2665" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="327:347" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="395:533" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="565:651" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="723:813" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="966:1471" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="1007:1114" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="1191:1425" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="1349:1411" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="1481:2659" ph="Static" />
+                <marker date="1636732644718" expanded="true" signature="1497:2018" ph="/* public static async Task&lt;bool&gt; WaitUntilCondition(TaskCondition condition, int millisecondsDelay = 100) ... */" />
+                <marker date="1636732644718" expanded="true" signature="2093:2639" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="2266:2322" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="2371:2434" ph="{...}" />
+                <marker date="1636732644718" expanded="true" signature="2454:2532" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40513F04-EF11-4C8D-B39E-E74008EBAF26/30/c6ad9596/AddRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40513F04-EF11-4C8D-B39E-E74008EBAF26/89/992da31b/ListRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40513F04-EF11-4C8D-B39E-E74008EBAF26/02/9c3d4dab/RemoveRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_package_/Editor/PackageUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Task_Kits_Develop/Assets/_package_/Runtime/TaskCondition.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Task_Kits_Develop/Assets/_package_/Runtime/TaskCondition.cs" />
+        <option value="$PROJECT_DIR$/Assets/_package_/Editor/PackageUtils.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1320" />
+    <option name="width" value="1172" />
+    <option name="height" value="1447" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="_package_" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="_package_" type="1045f7f1:UnityExplorerNode" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+              <item name="_package_" type="a82a7030:PackageNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+              <item name="_package_" type="a82a7030:PackageNode" />
+              <item name="Runtime" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e498d9d-7415-4447-8c06-8c756baa6b8e" name="Default Changelist" comment="" />
+      <created>1636646049039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636646049039</updated>
+      <workItem from="1636646050285" duration="2588000" />
+      <workItem from="1636716577405" duration="5297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7885000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1320" y="0" width="1172" height="1447" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3336331" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_package_/Editor/PackageUtils.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/_package_/Editor/PackageUtils.cs" initialLine="15">
+            <startOffsets>
+              <option value="442" />
+            </startOffsets>
+            <endOffsets>
+              <option value="443" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40513F04-EF11-4C8D-B39E-E74008EBAF26/89/992da31b/ListRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40513F04-EF11-4C8D-B39E-E74008EBAF26/30/c6ad9596/AddRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40513F04-EF11-4C8D-B39E-E74008EBAF26/02/9c3d4dab/RemoveRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Task_Kits_Develop/Assets/_package_/Runtime/TaskCondition.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="81" selection-start-line="81" selection-end-line="82" />
+          <folding>
+            <marker date="1636732644718" expanded="false" signature="6:115" ph="..." />
+            <marker date="1636732644718" expanded="true" signature="135:2667" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="168:2665" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="327:347" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="395:533" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="565:651" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="723:813" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="966:1471" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="1007:1114" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="1191:1425" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="1349:1411" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="1481:2659" ph="Static" />
+            <marker date="1636732644718" expanded="true" signature="1497:2018" ph="/* public static async Task&lt;bool&gt; WaitUntilCondition(TaskCondition condition, int millisecondsDelay = 100) ... */" />
+            <marker date="1636732644718" expanded="true" signature="2093:2639" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="2266:2322" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="2371:2434" ph="{...}" />
+            <marker date="1636732644718" expanded="true" signature="2454:2532" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_package_/Editor/PackageUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <marker date="1636735682662" expanded="true" signature="6:268" ph="..." />
+            <marker date="1636735682662" expanded="true" signature="291:5341" ph="{...}" />
+            <marker date="1636735682662" expanded="true" signature="330:5339" ph="{...}" />
+            <marker date="1636735682662" expanded="true" signature="433:958" ph="{...}" />
+            <marker date="1636735682662" expanded="true" signature="733:879" ph="{...}" />
+            <marker date="1636735682662" expanded="true" signature="1059:1143" ph="{...}" />
+            <marker date="1636735682662" expanded="true" signature="1246:1779" ph="{...}" />
+            <marker date="1636735682662" expanded="true" signature="1551:1700" ph="{...}" />
+            <marker date="1636735682662" expanded="true" signature="1893:2688" ph="{...}" />
+            <marker date="1636735682662" expanded="true" signature="2195:2342" ph="{...}" />
+            <marker date="1636735682662" expanded="true" signature="2430:2603" ph="{...}" />
+            <marker date="1636735682662" expanded="true" signature="2500:2589" ph="{...}" />
+            <marker date="1636735682662" expanded="true" signature="2690:3897" ph="/*        /// 添加或更新插件包 ... */" />
+            <marker date="1636735682662" expanded="true" signature="3900:5333" ph="/* ##region 插件包列表 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

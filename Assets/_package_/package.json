@@ -1,0 +1,8 @@
+{
+  "name": "com.chino.package.kits",
+  "displayName": "Package Kits",
+  "version": "0.0.0",
+  "unity": "2020.1",
+  "description": "包开发工具",
+  "type": "tool"
+}
