@@ -8,10 +8,16 @@ using UnityEditor.PackageManager.Requests;
 using UnityEngine;
 using PackageInfo = UnityEditor.PackageManager.PackageInfo;
 
-namespace CommandTool
+namespace PackageKits
 {
     public static class PackageUtils
     {
+        /// <summary>
+        /// 安装插件
+        /// </summary>
+        /// <param name="packageId"></param>
+        /// <param name="completed"></param>
+        /// <returns></returns>
         public static async Task<bool> AddPackageAsync(string packageId, Action<bool> completed)
         {
             var request = Client.Add(packageId);
@@ -28,11 +34,24 @@ namespace CommandTool
             return success;
         }
 
+        /// <summary>
+        /// 更新插件
+        /// 内部是安装插件
+        /// </summary>
+        /// <param name="packageId"></param>
+        /// <param name="completed"></param>
+        /// <returns></returns>
         public static async Task<bool> UpdatePackageAsync(string packageId, Action<bool> completed)
         {
             return await AddPackageAsync(packageId, completed);
         }
 
+        /// <summary>
+        /// 移除插件
+        /// </summary>
+        /// <param name="packageName"></param>
+        /// <param name="completed"></param>
+        /// <returns></returns>
         public static async Task<bool> RemovePackageAsync(string packageName, Action<bool> completed)
         {
             var request = Client.Remove(packageName);
@@ -49,6 +68,11 @@ namespace CommandTool
             return success;
         }
 
+        /// <summary>
+        /// 项目安装的插件列表
+        /// </summary>
+        /// <param name="completed"></param>
+        /// <returns></returns>
         public static async Task<bool> ListPackageAsync(Action<bool, Dictionary<string, PackageInfo>> completed)
         {
             var request = Client.List(true, true);
@@ -72,6 +96,36 @@ namespace CommandTool
 
             completed?.Invoke(success, list);
             return success;
+        }
+
+        /// <summary>
+        /// 是否安装插件
+        /// </summary>
+        /// <returns></returns>
+        public static async Task<bool> HasPackageAsync(string packageName)
+        {
+            Dictionary<string, PackageInfo> packages = null;
+            var ret = await ListPackageAsync((rst, list) =>
+            {
+                if (rst == false)
+                {
+                    return;
+                }
+
+                packages = list;
+            });
+
+            if (ret == false)
+            {
+                return false;
+            }
+
+            if (packages == null)
+            {
+                return false;
+            }
+
+            return packages.ContainsKey(packageName);
         }
 
 //        #region 添加或更新插件包
