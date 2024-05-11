@@ -1,8 +1,25 @@
 {
   "name": "com.chino.package.kits",
   "displayName": "Package Kits",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "unity": "2020.1",
   "description": "包开发工具",
-  "type": "tool"
+  "type": "tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chino66/Package_Kits_Develop.git"
+  },
+  "author": "chino66",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chino66/Package_Kits_Develop/issues"
+  },
+  "homepage": "https://github.com/Chino66/Package_Kits_Develop#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@chino66"
+  }
 }
